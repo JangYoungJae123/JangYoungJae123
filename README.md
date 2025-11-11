@@ -7,7 +7,7 @@
 [![YoungJae's GitHub Hits](https://hits.sh/github.com/JangYoungJae123.svg?view=today-total&style=for-the-badge&label=V&color=ba2beb&labelColor=000000)](https://hits.sh/github.com/JangYoungJae123/)
 
 
-[![백준 알고리즘 랭킹](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj={youngjae2496})](https://solved.ac/{youngjae2496})
 
 
 ### 🦾 Skills
