@@ -19,4 +19,4 @@
 
 
 ### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangYoungJae123&layout=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangYoungJae123)
