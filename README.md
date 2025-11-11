@@ -1,1 +1,1 @@
-! [헤더이미지](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=배우는%20장영재입니다&section=header&reversal=true&fontSize=70)
+![헤더이미지](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=배우는%20장영재입니다&section=header&reversal=true&fontSize=70)
