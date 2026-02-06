@@ -1,7 +1,8 @@
 ![헤더이미지](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=프론트엔드를%20공부하는%20장영재입니다&section=header&reversal=true&fontSize=50)
 
 
-[![Youngjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungjaeJang7)](https://github.com/anuraghazra/github-readme-stats)
+[![Youngjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungjaeJang7&v=1
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj={youngjae2496})](https://solved.ac/{youngjae2496})
@@ -18,7 +19,8 @@
 
 
 ### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungjaeJang7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungjaeJang7&v=1
+)
 
 
 [![Youngjae's GitHub Hits](https://hits.sh/github.com/JangYoungJae123.svg?view=today-total&style=for-the-badge&label=V&color=ba2beb&labelColor=000000)](https://hits.sh/github.com/JangYoungJae123/)
